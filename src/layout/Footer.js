@@ -11,7 +11,7 @@ const Footer =  () => {
         tag="footer"
         className="text-center bg-info text-white text-uppercase fixed-bottom p-3"
         >
-            BachelorsCode search app with uppercase
+           Git Search app ...!
         </Container>
     )
 }

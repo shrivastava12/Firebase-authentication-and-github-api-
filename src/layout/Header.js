@@ -20,7 +20,7 @@ const Header = () => {
 
     return(
         <Navbar color="info" light expand="md">
-            <NavbarBrand><Link to="/"className="text-white">BachelorsCode</Link></NavbarBrand>
+            <NavbarBrand><Link to="/"className="text-white">Git Search </Link></NavbarBrand>
         
         <NavbarText className="text-white">
             {
